@@ -1,4 +1,1 @@
-Name: ADEYANJU IFEOLUWA JOSHUA
-Matric number: 22CD032107
-Live URL of hosted application: https://llm-qa-project-ifeoluwa-adeyanju.onrender.com
-GitHub repository link: https://github.com/ife-aj/LLM_QA_Project_IFEOLUWA_ADEYANJU_22CD032107
+https://llm-qa-5j2u.onrender.com
